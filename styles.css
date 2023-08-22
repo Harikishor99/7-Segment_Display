@@ -1,0 +1,242 @@
+/* .div1 {
+    width: 0;
+    border-bottom: 15px solid rgb(117, 121, 117);
+    border-left: 15px solid transparent;
+    border-right: 15px solid transparent;
+}
+
+.div2 {
+    width: 60px;
+    height: 200px;
+    background-color: rgb(117, 121, 117);
+}
+
+.div3 {
+    width: 0;
+    border-top: 15px solid rgb(117, 121, 117);
+    border-left: 15px solid transparent;
+    border-right: 15px solid transparent;
+}
+
+.Hdiv1 {
+
+    height: 0;
+    border-right: 15px solid rgb(117, 121, 117);
+    border-top: 15px solid transparent;
+    border-bottom: 15px solid transparent;
+}
+
+.Hdiv2 {
+    height: 60px;
+    width: 200px;
+    background-color: rgb(117, 121, 117);
+}
+
+.Hdiv3 {
+    height: 0;
+    border-left: 15px solid rgb(117, 121, 117);
+    border-top: 15px solid transparent;
+    border-bottom: 15px solid transparent;
+} */
+
+.Adiv1,
+.Adiv2,
+.Adiv3 {
+    float: left;
+}
+
+#B,
+#C,
+#E,
+#F {
+    width: 25px;
+}
+
+#side1,
+#side2 {
+    width: 25px;
+    float: left;
+}
+
+#side1 {
+    margin-top: 20px;
+}
+
+#side2 {
+    margin-top: 20px;
+    margin-left: -127px;
+}
+
+#A {
+    padding-top: 6px;
+}
+
+#G {
+    padding-top: 128px;
+}
+
+#D {
+    padding-top: 131px;
+}
+
+#horzontal {
+    width: 272px;
+    float: left;
+    margin-right: -2%;
+}
+.Adiv1 {
+
+    height: 0;
+    border-right:15px solid rgb(117, 121, 117);
+    border-top: 15px solid transparent;
+    border-bottom: 15px solid transparent;
+}
+
+.Adiv2 {
+    height: 30px;
+    width: 100px;
+    background-color: rgb(117, 121, 117);
+}
+
+.Adiv3 {
+    height: 0;
+    border-left: 15px solid rgb(117, 121, 117);
+    border-top: 15px solid transparent;
+    border-bottom: 15px solid transparent;
+}
+
+.Bdiv1 {
+    width: 0;
+    border-bottom: 15px solid rgb(117, 121, 117);
+    border-left: 15px solid transparent;
+    border-right: 15px solid transparent;
+}
+
+.Bdiv2 {
+    width: 30px;
+    height: 100px;
+    background-color: rgb(117, 121, 117);
+}
+
+.Bdiv3 {
+    width: 0;
+    border-top: 15px solid rgb(117, 121, 117);
+    border-left: 15px solid transparent;
+    border-right: 15px solid transparent;
+}
+
+.Cdiv1 {
+    width: 0;
+    border-bottom: 15px solid rgb(117, 121, 117);
+    border-left: 15px solid transparent;
+    border-right: 15px solid transparent;
+}
+
+.Cdiv2 {
+    width: 30px;
+    height: 100px;
+    background-color: rgb(117, 121, 117);
+}
+
+.Cdiv3 {
+    width: 0;
+    border-top: 15px solid rgb(117, 121, 117);
+    border-left: 15px solid transparent;
+    border-right: 15px solid transparent;
+}
+
+.Ddiv1 {
+    float: left;
+    height: 0;
+    border-right: 15px solid rgb(117, 121, 117);
+    border-top: 15px solid transparent;
+    border-bottom: 15px solid transparent;
+}
+
+.Ddiv2 {
+    float: left;
+    height: 30px;
+    width: 100px;
+    background-color: rgb(117, 121, 117);
+}
+
+.Ddiv3 {
+    float: left;
+    height: 0;
+    border-left: 15px solid rgb(117, 121, 117);
+    border-top: 15px solid transparent;
+    border-bottom: 15px solid transparent;
+}
+.Ediv1 {
+    width: 0;
+    border-bottom: 15px solid rgb(117, 121, 117);
+    border-left: 15px solid transparent;
+    border-right: 15px solid transparent;
+}
+
+.Ediv2 {
+    width: 30px;
+    height: 100px;
+    background-color: rgb(117, 121, 117);
+}
+
+.Ediv3 {
+    width: 0;
+    border-top: 15px solid rgb(117, 121, 117);
+    border-left: 15px solid transparent;
+    border-right: 15px solid transparent;
+}
+.Fdiv1 {
+    width: 0;
+    border-bottom: 15px solid rgb(117, 121, 117);
+    border-left: 15px solid transparent;
+    border-right: 15px solid transparent;
+}
+
+.Fdiv2 {
+    width: 30px;
+    height: 100px;
+    background-color: rgb(117, 121, 117);
+}
+
+.Fdiv3 {
+    width: 0;
+    border-top: 15px solid rgb(117, 121, 117);
+    border-left: 15px solid transparent;
+    border-right: 15px solid transparent;
+}
+
+
+
+.Gdiv1 {
+    float: left;
+    height: 0;
+    border-right: 15px solid rgb(117, 121, 117);
+    border-top: 15px solid transparent;
+    border-bottom: 15px solid transparent;
+}
+
+.Gdiv2 {
+    float: left;
+    height: 30px;
+    width: 100px;
+    background-color: rgb(117, 121, 117);
+}
+
+.Gdiv3 {
+    float: left;
+    height: 0;
+    border-left: 15px solid rgb(117, 121, 117);
+    border-top: 15px solid transparent;
+    border-bottom: 15px solid transparent;
+}
+
+#inputdiv{
+    margin-left: 35%;
+    margin-top: 5%;
+}
+#main{
+    margin-top: 10%;
+display: flex;
+justify-content: center;
+}
